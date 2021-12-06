@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverardoTV/crud-front.git"
+  },
+  "author": "Everardo Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EverardoTV/crud-front/issues"
+  },
+  "homepage": "https://github.com/EverardoTV/crud-front#readme"
+}
